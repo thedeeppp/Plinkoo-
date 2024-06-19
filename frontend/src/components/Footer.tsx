@@ -27,12 +27,12 @@ export const Footer = () => {
               <a href="https://github.com/hkirat" target="_blank">
                 <FaGithub size={30} />
               </a>
-              <a href="https://www.youtube.com/@harkirat1" target="_blank">
+              {/* <a href="https://www.youtube.com/@harkirat1" target="_blank">
                 <FaYoutube size={30} />
-              </a>
-              <a href="https://twitter.com/kirat_tw" target="_blank">
+              </a> */}
+              {/* <a href="https://twitter.com/kirat_tw" target="_blank">
                 <FaTwitter size={30} />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
